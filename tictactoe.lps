@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tictactoe.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TicTacToe"/>
+        <CursorPos X="5" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tictactoegame.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TicTacToeGame"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="184"/>
+        <CursorPos X="5" Y="215"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="raylib.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1748"/>
+        <CursorPos X="10" Y="1761"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="2" Column="17" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="37" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="29" Column="43" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="37" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="35" Column="13" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="38" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="37" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="37" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="8" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="10" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="22" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="50" Column="16" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="21" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="22" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="52" Column="11" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="169" Column="19" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="165" Column="21" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="169" Column="34" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="171" Column="11" TopLine="155"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="23" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="215" Column="36" TopLine="200"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="23" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="90" Column="49" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="200" Column="44" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="25" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="187" Column="29" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="42" Column="3" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="185" Column="22" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="tictactoegame.pas"/>
+        <Caret Line="8" Column="16"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
