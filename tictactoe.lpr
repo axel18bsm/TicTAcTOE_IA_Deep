@@ -7,7 +7,8 @@ uses
   raylib,
   SysUtils,
   TicTacToeGame,
-  raygui;
+  TicTacToeGameManager,
+  raygui, TicTacToeHumanVsHuman;
 
 begin
   InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, 'Tic-Tac-Toe Raylib Raygui Free Pascal');
@@ -16,16 +17,18 @@ begin
 
   InitBoard();
 
+  InitializeGame();
+
   while not WindowShouldClose() do
   begin
     BeginDrawing();
-    // DrawBoard avant gui (point 2)
     DrawBoard();
     gui();
-    // Bouton Quitter dans la boucle principale (point 2 : garder votre version)
     quitButton := RectangleCreate(SCREEN_WIDTH - 150, 50, 120, 40);
     if GuiButton(quitButton, 'Quitter') > 0 then
       break;
+    // Gérer la logique du jeu via GameManager
+    ManageGame();
     EndDrawing();
   end;
 

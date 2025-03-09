@@ -39,6 +39,16 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="TicTacToeGame"/>
       </Unit>
+      <Unit>
+        <Filename Value="tictactoegamemanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TicTacToeGameManager"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tictactoehumanvshuman.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TicTacToeHumanVsHuman"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
