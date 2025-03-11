@@ -1,4 +1,4 @@
-program TicTacToe;
+program tictactoe;
 
 {$mode objfpc}{$H+}
 
@@ -7,8 +7,9 @@ uses
   raylib,
   SysUtils,
   TicTacToeGame,
-  TicTacToeGameManager,
-  raygui, TicTacToeHumanVsHuman;
+  raygui,
+  TicTacToeHumanVsHuman,
+  TicTacToeHumanVsAI, tictactoeGamemanager;
 
 begin
   InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, 'Tic-Tac-Toe Raylib Raygui Free Pascal');
@@ -16,7 +17,6 @@ begin
   GuiLoadStyle(PChar(GetApplicationDirectory + 'gui_styles/style_amber.rgs'));
 
   InitBoard();
-
   InitializeGame();
 
   while not WindowShouldClose() do
@@ -31,8 +31,5 @@ begin
     ManageGame();
     EndDrawing();
   end;
-
-  UnloadResources();
-  CloseWindow();
-end.
-
+  CloseWindow;
+  end.

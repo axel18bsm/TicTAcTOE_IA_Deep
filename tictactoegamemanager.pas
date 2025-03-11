@@ -5,10 +5,7 @@ unit TicTacToeGameManager;
 interface
 
 uses
-  TicTacToegame,TicTacToehumanvshuman;
- // TicTacToeHumanVsHuman,
- // TicTacToeHumanVsAI,
- // TicTacToeHumanVsDeepAI;
+  TicTacToeGame, TicTacToeHumanVsHuman, TicTacToeHumanVsAI;
 
 procedure ManageGame();
 
@@ -16,11 +13,18 @@ implementation
 
 procedure ManageGame();
 begin
-  // Gérer la logique du jeu selon le mode sélectionné
+  if gameMode <> lastGameMode then
+  begin
+    if gameMode = gmHumanVsAI then
+      InitializeHumanVsAI()
+    else if gameMode = gmHumanVsHuman then
+      InitializeGame();
+    lastGameMode := gameMode;
+  end;
+
   case gameMode of
     gmHumanVsHuman: HumanVsHumanPlay();
-    //gmHumanVsAI: HumanVsAIPlay();
-    //gmHumanVsDeepAI: HumanVsDeepAIPlay();
+    gmHumanVsAI: HumanVsAIPlay();
   end;
 end;
 

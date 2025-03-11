@@ -32,7 +32,6 @@
       <Unit>
         <Filename Value="tictactoe.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="TicTacToe"/>
       </Unit>
       <Unit>
         <Filename Value="tictactoegame.pas"/>
@@ -48,6 +47,11 @@
         <Filename Value="tictactoehumanvshuman.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="TicTacToeHumanVsHuman"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tictactoehumanvsai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TicTacToeHumanVsAI"/>
       </Unit>
     </Units>
   </ProjectOptions>
