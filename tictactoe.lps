@@ -8,8 +8,9 @@
       <Unit>
         <Filename Value="tictactoe.lpr"/>
         <IsPartOfProject Value="True"/>
-        <CursorPos X="25" Y="30"/>
-        <UsageCount Value="39"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="45"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -19,7 +20,7 @@
         <EditorIndex Value="6"/>
         <TopLine Value="275"/>
         <CursorPos X="22" Y="290"/>
-        <UsageCount Value="39"/>
+        <UsageCount Value="45"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -27,8 +28,9 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="TicTacToeGameManager"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="45" Y="16"/>
-        <UsageCount Value="39"/>
+        <TopLine Value="3"/>
+        <CursorPos Y="32"/>
+        <UsageCount Value="45"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -38,7 +40,7 @@
         <EditorIndex Value="4"/>
         <TopLine Value="89"/>
         <CursorPos X="22" Y="115"/>
-        <UsageCount Value="39"/>
+        <UsageCount Value="45"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -48,172 +50,177 @@
         <EditorIndex Value="2"/>
         <TopLine Value="236"/>
         <CursorPos X="22" Y="251"/>
-        <UsageCount Value="34"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TicTacToeHumanVsDeepAI"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="35" Y="8"/>
+        <UsageCount Value="26"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="raylib.pas"/>
-        <EditorIndex Value="9"/>
+        <EditorIndex Value="10"/>
         <TopLine Value="1146"/>
         <CursorPos X="73" Y="1158"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="c:\lazarus4\fpc\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="8"/>
+        <Filename Value="C:\lazarus4\fpc\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="9"/>
         <TopLine Value="834"/>
         <CursorPos X="10" Y="850"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="c:\lazarus4\fpc\3.2.2\source\rtl\win\sysutils.pp"/>
+        <Filename Value="C:\lazarus4\fpc\3.2.2\source\rtl\win\sysutils.pp"/>
         <UnitName Value="SysUtils"/>
-        <EditorIndex Value="7"/>
+        <EditorIndex Value="8"/>
         <TopLine Value="808"/>
         <CursorPos X="33" Y="826"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="c:\lazarus4\fpc\3.2.2\source\rtl\win\wininc\base.inc"/>
+        <Filename Value="C:\lazarus4\fpc\3.2.2\source\rtl\win\wininc\base.inc"/>
         <EditorIndex Value="5"/>
         <TopLine Value="543"/>
         <CursorPos X="57" Y="564"/>
-        <UsageCount Value="17"/>
+        <UsageCount Value="19"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="c:\lazarus4\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
+        <Filename Value="C:\lazarus4\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
         <EditorIndex Value="3"/>
         <TopLine Value="992"/>
         <CursorPos X="11" Y="846"/>
-        <UsageCount Value="11"/>
+        <UsageCount Value="13"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="29">
+    <JumpHistory HistoryIndex="28">
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="78" TopLine="69"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="26" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="79" TopLine="69"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="27" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="81" TopLine="69"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="28" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="82" TopLine="69"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="29" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="95" TopLine="81"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="30" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="97" TopLine="81"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="32" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="388" Column="6" TopLine="319"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="33" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="187" TopLine="166"/>
+        <Filename Value="tictactoe.lpr"/>
+        <Caret Line="24" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="149" Column="28" TopLine="128"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="84" TopLine="46"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="184" Column="26" TopLine="162"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="49" TopLine="37"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="315" Column="12" TopLine="286"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="76" Column="8" TopLine="63"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="416" Column="5" TopLine="286"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="79" Column="7" TopLine="63"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="67" Column="3" TopLine="51"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="87" TopLine="63"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="26" Column="3" TopLine="10"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="90" TopLine="70"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="28" Column="49" TopLine="10"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="91" TopLine="70"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="190" Column="25" TopLine="174"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="94" TopLine="70"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="67" Column="19" TopLine="51"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="95" TopLine="70"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="24" Column="25"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="97" TopLine="71"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="12" Column="42"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="95" Column="35" TopLine="78"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="240" Column="22" TopLine="225"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="99" TopLine="78"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="251" Column="22" TopLine="233"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="101" TopLine="78"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="302" Column="24" TopLine="286"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="102" TopLine="78"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="309" Column="22" TopLine="286"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="103" Column="33" TopLine="78"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="108" Column="22" TopLine="89"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="106" TopLine="80"/>
       </Position>
       <Position>
-        <Filename Value="tictactoehumanvshuman.pas"/>
-        <Caret Line="115" Column="22" TopLine="89"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="106" TopLine="96"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="134" Column="16" TopLine="118"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="131" Column="5" TopLine="99"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="148" Column="16" TopLine="121"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="49" TopLine="33"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="189" Column="16" TopLine="173"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="127" Column="5" TopLine="96"/>
       </Position>
       <Position>
-        <Filename Value="tictactoegame.pas"/>
-        <Caret Line="290" Column="22" TopLine="275"/>
-      </Position>
-      <Position>
-        <Filename Value="tictactoehumanvsai.pas"/>
-        <Caret Line="225" Column="5" TopLine="208"/>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <Caret Line="52" Column="36" TopLine="43"/>
       </Position>
     </JumpHistory>
     <RunParams>

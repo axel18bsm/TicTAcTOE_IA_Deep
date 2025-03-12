@@ -1,0 +1,20 @@
+Entrée JSON : {"board": [0,0,0,0,-1,0,0,0,0]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,0,0,0]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,0,0,0]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,0,0,-1]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,-1,0,-1]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,0,0,0]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,-1,0,0]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,-1,0,-1]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,0,0,0]}
+Sortie JSON : 
+Entrée JSON : {"board": [0,0,0,0,-1,0,0,0,0]}
+Sortie JSON : 

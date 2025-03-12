@@ -9,7 +9,9 @@ uses
   TicTacToeGame,
   raygui,
   TicTacToeHumanVsHuman,
-  TicTacToeHumanVsAI, tictactoeGamemanager;
+  TicTacToeHumanVsAI,
+  TicTacToeHumanVsDeepAI,
+  tictactoeGamemanager;
 
 begin
   InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, 'Tic-Tac-Toe Raylib Raygui Free Pascal');
@@ -27,9 +29,8 @@ begin
     quitButton := RectangleCreate(SCREEN_WIDTH - 150, 50, 120, 40);
     if GuiButton(quitButton, 'Quitter') > 0 then
       break;
-    // Gérer la logique du jeu via GameManager
     ManageGame();
     EndDrawing();
   end;
   CloseWindow;
-  end.
+end.

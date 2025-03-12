@@ -53,6 +53,11 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="TicTacToeHumanVsAI"/>
       </Unit>
+      <Unit>
+        <Filename Value="tictactoehumanvsdeepai.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TicTacToeHumanVsDeepAI"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
