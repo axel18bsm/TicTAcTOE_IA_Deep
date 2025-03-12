@@ -12,3 +12,5 @@ a game system states to check the speed and loops of Raylib.
 ![image](https://github.com/user-attachments/assets/57c8cc02-8a06-4743-ae3f-f1c4713f882b)
 
 
+Third mode in deep learning done but in error to recept data from  ! :-(
+![image](https://github.com/user-attachments/assets/07ac7504-8145-4960-951d-3d1f24557c8d)
